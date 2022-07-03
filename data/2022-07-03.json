@@ -1,0 +1,443 @@
+[
+    {
+        "category": "Finance",
+        "title": "Coinbase Launches Derivatives Product in Crowded Market",
+        "byline": "Paul Vigna",
+        "summary": "Coinbase just introduced a derivatives product, its latest attempt to move into a new field and offset weakness in its core spot-trading business. It has a lot of competition.",
+        "link": "https://www.wsj.com/articles/coinbase-launches-derivatives-product-in-crowdedand-depressedmarket-11656763202?mod=Searchresults_pos1&page=1"
+    },
+    {
+        "category": "Autos Industry",
+        "title": "Tesla Vehicle Deliveries Tumble After China Factory Shutdown",
+        "byline": "Rebecca Elliott and Meghan Bobrowsky",
+        "summary": "A string of record quarterly deliveries came to an end in the second quarter, when Tesla handed over 254,695 vehicles to customers. ",
+        "link": "https://www.wsj.com/articles/tesla-vehicle-deliveries-tumble-after-china-factory-shutdown-11656779597?mod=Searchresults_pos2&page=1"
+    },
+    {
+        "category": "Finance",
+        "title": "Crypto\u2019s Domino Effect Is Widening",
+        "byline": "Caitlin Ostroff and Vicky Ge Huang",
+        "summary": "Losses in the digital-assets industry are blowing holes in balance sheets and pushing firms to near bankruptcy.",
+        "link": "https://www.wsj.com/articles/cryptos-domino-effect-is-widening-threatening-more-pain-11656754202?mod=Searchresults_pos3&page=1"
+    },
+    {
+        "category": "Deals",
+        "title": "Forget Flying Taxis\u2014Down-to-Earth Companies Are Prime SPAC Targets",
+        "byline": "Will Feuer",
+        "summary": "With deal deadlines looming, industrial, manufacturing and other staid sectors have become more appealing for special-purpose acquisition companies.",
+        "link": "https://www.wsj.com/articles/forget-flying-taxisdown-to-earth-companies-are-now-the-prime-spac-targets-11656766980?mod=Searchresults_pos4&page=1"
+    },
+    {
+        "category": "U.S. Markets",
+        "title": "Stocks Finish Higher to Kick Off New Quarter",
+        "byline": "Matt Grossman and Caitlin Ostroff",
+        "summary": "U.S. stocks advanced after Wall Street notched its worst first half of the year in more than half a century.",
+        "link": "https://www.wsj.com/articles/global-stocks-markets-dow-update-07-01-2022-11656660859?mod=Searchresults_pos5&page=1"
+    },
+    {
+        "category": "Deals",
+        "title": "FTX Strikes Deal With Option to Buy Crypto Lender BlockFi for Up to $240 Million",
+        "byline": "Paul Vigna and Denny Jacob",
+        "summary": "The accord with billionaire Sam Bankman-Fried\u2019s crypto exchange also includes a $400 million revolving credit facility for BlockFi as crypto firms seek stability during a broad industry meltdown. ",
+        "link": "https://www.wsj.com/articles/ftx-strikes-deal-with-option-to-buy-crypto-lender-blockfi-for-up-to-240-million-11656701743?mod=Searchresults_pos6&page=1"
+    },
+    {
+        "category": "Pro Bankruptcy",
+        "title": "Risky Borrowers Largely Dodged Bankruptcy This Year. Now the Easy Money Is Ending.",
+        "byline": "Andrew Scurria",
+        "summary": "U.S. corporate defaults and bankruptcies stayed muted in the first five months of this year but market volatility, rising interest rates and a potential economic slowdown are making investors nervous about low-rated debt. ",
+        "link": "https://www.wsj.com/articles/risky-borrowers-largely-dodged-bankruptcy-so-far-this-year-now-the-easy-money-is-ending-11656709790?mod=Searchresults_pos7&page=1"
+    },
+    {
+        "category": "Markets",
+        "title": "Wild First Half in Markets Sets Stage for More Big Moves",
+        "byline": "WSJ Graphics Staff",
+        "summary": "Charts size up what might lie ahead for businesses and the economy.",
+        "link": "https://www.wsj.com/articles/wild-first-half-in-markets-sets-stage-for-more-big-moves-in-rest-of-2022-11656667803?mod=Searchresults_pos8&page=1"
+    },
+    {
+        "category": "WSJ Minute Briefing",
+        "title": "EU Proposes Broad Cryptocurrency Rules",
+        "byline": "",
+        "summary": "Also: North Korea blames Covid-19 outbreak on virus-tainted balloons sent from South Korea. Russian prosecutors charge U.S. women\u2019s basketball star Brittney Griner with intentionally importing drugs into the country. J.R. Whalen reports.",
+        "link": "https://www.wsj.com/podcasts/minute-briefing/eu-proposes-broad-cryptocurrency-rules/393D0EE8-E216-4AA0-B346-EB773314F206?mod=Searchresults_pos9&page=1"
+    },
+    {
+        "category": "Markets",
+        "title": "EU Sets First Rules to Regulate Cryptocurrencies",
+        "byline": "Patricia Kowsmann, Caitlin Ostroff and Andrew Duehren",
+        "summary": "European Union officials agreed on rules that would regulate the crypto market in the bloc, forcing platforms to seek authorization to operate and providing safeguards to users.",
+        "link": "https://www.wsj.com/articles/eu-sets-first-rules-to-regulate-cryptocurrencies-11656682089?mod=Searchresults_pos10&page=1"
+    },
+    {
+        "category": "Markets",
+        "title": "Markets Post Worst First Half of a Year in Decades",
+        "byline": "Akane Otani",
+        "summary": "Stocks, bonds and crypto all tumbled in the first six months of the year, with commodities markets including oil about the only place that didn\u2019t lose ground.",
+        "link": "https://www.wsj.com/articles/markets-head-toward-worst-start-to-a-year-in-decades-11656551051?mod=Searchresults_pos11&page=1"
+    },
+    {
+        "category": "Art & Auctions",
+        "title": "Sotheby\u2019s CEO on Why the Art Market Is Soaring",
+        "byline": "Kelly Crow",
+        "summary": "From inflation to the rise of Asian collectors, Charles Stewart reveals the dynamics fueling robust auction sales.",
+        "link": "https://www.wsj.com/articles/sothebys-ceo-interview-art-market-11656619188?mod=Searchresults_pos12&page=1"
+    },
+    {
+        "category": "Google News Update",
+        "title": "Can Markets Bounce Back After a Grueling Six Months?",
+        "byline": "",
+        "summary": "Global markets have closed out their most bruising first half of a year in decades. Wall Street Journal markets reporter Akane Otani joins WSJ What\u2019s News host Luke Vargas to explain that while history suggests the next six months could see a turnaround, investor sentiment remains pessimistic.",
+        "link": "https://www.wsj.com/podcasts/google-news-update/can-markets-bounce-back-after-a-grueling-six-months/EFF66099-8858-472B-8B46-5A2DDC779908?mod=Searchresults_pos13&page=1"
+    },
+    {
+        "category": "The Wall Street Journal Whats News",
+        "title": "Can Markets Bounce Back After a Grueling Six Months?",
+        "byline": "",
+        "summary": "A.M. Edition for July 1. Global markets have closed out their most bruising first half of a year in decades. WSJ markets reporter Akane Otani explains that while history suggests the next six months could see a turnaround, investor sentiment remains pessimistic. Luke Vargas hosts.",
+        "link": "https://www.wsj.com/podcasts/whats-news/can-markets-bounce-back-after-a-grueling-six-months/53785B30-102B-48E8-9235-74DF534670F7?mod=Searchresults_pos14&page=1"
+    },
+    {
+        "category": "WSJ Pro",
+        "title": "North Korea Suspected of Plundering Crypto to Fund Weapons Programs",
+        "byline": "David Uberti",
+        "summary": "A $100 million heist from crypto project Harmony matches tactics from a string of hacks linked to Pyongyang, blockchain experts say.",
+        "link": "https://www.wsj.com/articles/north-korea-suspected-of-plundering-crypto-to-fund-weapons-programs-11656667802?mod=Searchresults_pos15&page=1"
+    },
+    {
+        "category": "Risk & Compliance Journal",
+        "title": "Most Countries Lack Crypto Information-Sharing Laws, Watchdog Says",
+        "byline": "Mengqi Sun",
+        "summary": "Only about 30% of jurisdictions surveyed said they had passed travel-rule legislation to help prevent illicit use of crypto ",
+        "link": "https://www.wsj.com/articles/most-countries-lack-crypto-information-sharing-laws-watchdog-says-11656635162?mod=Searchresults_pos16&page=1"
+    },
+    {
+        "category": "WSJ Minute Briefing",
+        "title": "Markets Finish First Half of 2022 Sharply Lower",
+        "byline": "",
+        "summary": "Dow down 15.3% through the first half. S&P and Nasdaq each down more than  20%. Bitcoin value drops to around $19,000. J.R. Whalen reports.",
+        "link": "https://www.wsj.com/podcasts/minute-briefing/markets-finish-first-half-of-2022-sharply-lower/4A4F6BD9-1DC2-4F06-8B6A-52B58E980FA4?mod=Searchresults_pos17&page=1"
+    },
+    {
+        "category": "U.S.",
+        "title": "\u2018Cryptoqueen\u2019 Is Now on FBI\u2019s 10 Most Wanted List",
+        "byline": "Omar Abdel-Baqui",
+        "summary": "Ruja Ignatova, who allegedly operated a world-wide pyramid scheme through OneCoin, remains at large",
+        "link": "https://www.wsj.com/articles/cryptoqueen-is-now-on-fbis-10-most-wanted-list-11656622401?mod=Searchresults_pos18&page=1"
+    },
+    {
+        "category": "U.S. Markets",
+        "title": "S&P 500 Posts Worst First Half of Year Since 1970",
+        "byline": "Akane Otani and Will Horner",
+        "summary": "Bond yields and stocks fell at the end of a grueling first half and as investors considered updated readings on consumer spending and inflation.",
+        "link": "https://www.wsj.com/articles/global-stocks-markets-dow-update-06-30-2022-11656487667-11656574533?mod=Searchresults_pos19&page=1"
+    },
+    {
+        "category": "Financial Regulation",
+        "title": "SEC Rebuffs Grayscale on Turning Bitcoin Fund Into ETF",
+        "byline": "Gunjan Banerji",
+        "summary": "The rejection of Grayscale Investments\u2019 petition marks a fresh setback to the cryptocurrency industry.",
+        "link": "https://www.wsj.com/articles/sec-rejects-grayscale-attempt-to-turn-bitcoin-fund-into-etf-11656617147?mod=Searchresults_pos20&page=1"
+    },
+    {
+        "category": "Paid Program",
+        "title": "Is DeFi the Next Revolution of the Internet Age?",
+        "byline": "Content from Cake DeFi",
+        "summary": "Discover how Cake DeFi is making crypto less complex.",
+        "link": "https://partners.wsj.com/cakedefi/crypto/is-defi-the-next-revolution-of-the-internet-age/?utm_source=wsj-search&utm_medium=CustomContentWSJ&mod=SponsorSearchresults_pos1&page=1"
+    },
+    {
+        "category": "Markets",
+        "title": "Singapore Central Bank Reprimands Crypto Hedge Fund Three Arrows",
+        "byline": "Caitlin Ostroff and Margot Patrick ",
+        "summary": "Singapore\u2019s top financial regulator reprimanded cryptocurrency hedge fund Three Arrows Capital, saying it supplied false information to officials and managed more assets than allowed. ",
+        "link": "https://www.wsj.com/articles/singapore-central-bank-reprimands-crypto-hedge-fund-three-arrows-saying-it-flouted-rules-11656598487?mod=Searchresults_pos1&page=2"
+    },
+    {
+        "category": "Google News Update",
+        "title": "Celsius Said It Was Low Risk; Documents Show the Opposite",
+        "byline": "",
+        "summary": "Celsius, one of the largest crypto lenders, has been under pressure. And people active in the sector have been keeping a watchful eye. The lending giant promoted itself as lower risk but higher reward than traditional banks. But investor documents from last year show Celsius was actually built on risk. Wall Street Journal reporter Eliot Brown joins WSJ Tech News Briefing host Julie Chang to discuss the latest insights into Celsius\u2019 business.",
+        "link": "https://www.wsj.com/podcasts/google-news-update/celsius-said-it-was-low-risk-documents-show-the-opposite/5AC731FC-23CA-43F7-B81B-41AD80C09D0F?mod=Searchresults_pos2&page=2"
+    },
+    {
+        "category": "Heard on the Street",
+        "title": "DeFi\u2019s Existential Problem: It Only Lends Money to Itself",
+        "byline": "Jon Sindreu",
+        "summary": "Crypto lenders\u2019 exclusive focus on other crypto projects suggests that their problems run much deeper than a Lehman-style liquidity crisis. ",
+        "link": "https://www.wsj.com/articles/defis-existential-problem-it-only-lends-money-to-itself-11656503840?mod=Searchresults_pos3&page=2"
+    },
+    {
+        "category": "Finance",
+        "title": "Behind the Celsius Sales Pitch Was a Crypto Firm Built on Risk",
+        "byline": "Eliot Brown and Caitlin Ostroff",
+        "summary": "Celsius CEO Alex Mashinsky built his cryptocurrency lender on a pitch that it was better than a bank. But investor documents show it had far more risk than a traditional lender.\u00a0",
+        "link": "https://www.wsj.com/articles/behind-the-celsius-sales-pitch-was-a-crypto-firm-built-on-risk-11656498142?mod=Searchresults_pos4&page=2"
+    },
+    {
+        "category": "Markets",
+        "title": "Crypto\u2019s Tumultuous Second Quarter Leaves Investors Asking: What Else Could Go Wrong?",
+        "byline": "Paul Vigna",
+        "summary": "The crypto market lost more than half its value in the latest period. ",
+        "link": "https://www.wsj.com/articles/cryptos-tumultuous-second-quarter-leaves-investors-asking-what-else-could-go-wrong-11656581401?mod=Searchresults_pos5&page=2"
+    },
+    {
+        "category": "The Wall Street Journal Tech Talk",
+        "title": "Celsius Said It Was Low Risk; Documents Show the Opposite",
+        "byline": "",
+        "summary": "Celsius, one of the largest crypto lenders, has been under pressure. And people active in the sector have been keeping a watchful eye. The lending giant promoted itself as lower risk but higher reward than traditional banks. But investor documents from last year show Celsius was actually built on risk. WSJ reporter Eliot Brown joins host Julie Chang to discuss the latest insights into Celsius\u2019 business.",
+        "link": "https://www.wsj.com/podcasts/tech-news-briefing/celsius-said-it-was-low-risk-documents-show-the-opposite/5972950D-C88B-4CDF-8B0B-94683B2A00A4?mod=Searchresults_pos6&page=2"
+    },
+    {
+        "category": "Whats News Business Finance",
+        "title": "What\u2019s News: Business & Finance",
+        "byline": "",
+        "summary": "What\u2019s News: Business & Finance",
+        "link": "https://www.wsj.com/articles/whats-news-business-finance-11656557923?mod=Searchresults_pos7&page=2"
+    },
+    {
+        "category": "Finance",
+        "title": "Crypto Hedge Fund Three Arrows Ordered to Liquidate by Court",
+        "byline": "Serena Ng, Caitlin Ostroff and Vicky Ge Huang",
+        "summary": "A British Virgin Islands court ordered the liquidation of the cryptocurrency hedge fund after creditors sued it for failure to repay debts.",
+        "link": "https://www.wsj.com/articles/crypto-fund-three-arrows-ordered-to-liquidate-by-court-11656506404?mod=Searchresults_pos8&page=2"
+    },
+    {
+        "category": "U.S. Markets",
+        "title": "Stocks Little Changed as Quarter\u2019s End Nears",
+        "byline": "Anna Hirtenstein and Paul Vigna",
+        "summary": "U.S. stocks posted only slight moves as investors digested comments from central bankers and awaited quarterly earnings reports.",
+        "link": "https://www.wsj.com/articles/global-stocks-markets-dow-update-06-29-2022-11656487667?mod=Searchresults_pos9&page=2"
+    },
+    {
+        "category": "Risk & Compliance Journal",
+        "title": "New York Finance Regulator Bullish on Crypto Despite Market\u2019s Decline",
+        "byline": "Richard Vanderford",
+        "summary": "The head of the New York State Department of Financial Services said she wants the regulator to continue to be a leader in cryptocurrencies, remaining upbeat on virtual assets despite the industry\u2019s turmoil.",
+        "link": "https://www.wsj.com/articles/new-york-finance-regulator-bullish-on-crypto-despite-markets-decline-11656534177?mod=Searchresults_pos10&page=2"
+    },
+    {
+        "category": "Letters",
+        "title": "Opinion: The U.S. Dollar Should Be More Like Bitcoin",
+        "byline": "",
+        "summary": "Stronger financial-privacy protections, faster payments and better transparency in monetary-policy governance. ",
+        "link": "https://www.wsj.com/articles/the-dollar-should-be-more-like-bitcoin-federal-reserve-crypto-store-value-11656427281?mod=Searchresults_pos11&page=2"
+    },
+    {
+        "category": "News Explainer",
+        "title": "What Happens If a Crypto Platform Goes Bankrupt?",
+        "byline": "",
+        "summary": "When cryptocurrency lending platform Celsius froze user accounts amid a plunge in valuations, it sent ripples across the industry and raised questions about what happens to user assets if a crypto platform files for bankruptcy. WSJ\u2019s Vicky Ge Huang explains. Photo illustration: Jordan Kranse",
+        "link": "https://www.wsj.com/video/series/news-explainers/what-happens-if-a-crypto-platform-goes-bankrupt/492D3C38-C15A-4654-AA1F-9CFDC52CEADB?mod=Searchresults_pos12&page=2"
+    },
+    {
+        "category": "Art & Auctions",
+        "title": "NFT Artists Get First Major Test Since Crypto\u2019s Collapse",
+        "byline": "Kelly Crow",
+        "summary": "Last year Christie\u2019s sold nearly $150 million worth of NFTs. This year? So far, it\u2019s only sold $4.6 million in NFT art.",
+        "link": "https://www.wsj.com/articles/nft-artists-get-first-major-test-since-cryptos-collapse-11656453852?mod=Searchresults_pos13&page=2"
+    },
+    {
+        "category": "Best of the Web",
+        "title": "Opinion: \u2018Irrational Exuberance\u2019 on a Plate",
+        "byline": "James Freeman",
+        "summary": "A bursting of the fake-burger bubble.",
+        "link": "https://www.wsj.com/articles/irrational-exuberance-on-a-plate-11656435348?mod=Searchresults_pos14&page=2"
+    },
+    {
+        "category": "Google News Update",
+        "title": "Do Kwon Tries Again After $40 Billion Crypto Crash",
+        "byline": "",
+        "summary": "Algorithmic stablecoin TerraUSD was supposed to maintain its value at $1 with the help of its sister-crypto, Luna. But TerraUSD\u2019s price collapsed to pennies in May, while Luna plunged by more than 99%, wiping out around $40 billion in value. Their creator Do Kwon has been attempting a comeback by relaunching Luna. Wall Street Journal markets reporter Alexander Osipovich joins WSJ Tech News Briefing host Julie Chang to explain the collapse of Do Kwon\u2019s crypto empire and what his second try looks like.",
+        "link": "https://www.wsj.com/podcasts/google-news-update/do-kwon-tries-again-after-40-billion-crypto-crash/A5C77DD5-6385-492C-AA5F-0FB353DF9DA8?mod=Searchresults_pos15&page=2"
+    },
+    {
+        "category": "Google News Update",
+        "title": "Hedge Funds Bet Against Tether, as Crypto Melts Down",
+        "byline": "",
+        "summary": "Short sellers have been ramping up their bets against tether, the world\u2019s largest stablecoin, amid a broad market selloff that has called into doubt the financial health of some crypto companies. Wall Street Journal markets reporter Caitlin McCabe joins WSJ What\u2019s News host Luke Vargas with more.",
+        "link": "https://www.wsj.com/podcasts/google-news-update/hedge-funds-bet-against-tether-as-crypto-melts-down/44684BF4-3B44-456C-903F-20A86D3A24C1?mod=Searchresults_pos16&page=2"
+    },
+    {
+        "category": "YT-Dion Rabouin",
+        "title": "How Margin Calls Can Transform Market Downturns Into Market Crashes",
+        "byline": "",
+        "summary": "Investors rarely hear about margin calls except during market downturns. WSJ\u2019s Dion Rabouin explains what they are and the unique way they are contributing to the current cryptocurrency crash. Illustration: Adele Morgan",
+        "link": "https://www.wsj.com/video/series/dion-rabouin/how-margin-calls-can-transform-market-downturns-into-market-crashes/D4936064-C30C-4BA6-801D-13EB6703A5B1?mod=Searchresults_pos17&page=2"
+    },
+    {
+        "category": "The Wall Street Journal Whats News",
+        "title": "Risk of Lockdowns in China Delays Return to Business as Usual",
+        "byline": "",
+        "summary": "A.M. Edition for June 28. The city of Shanghai may be emerging from a monthslong Covid-induced lockdown, but for companies across China, concerns about abrupt future lockdowns loom large. WSJ China corporate correspondent Liza Lin explains how a recent cycle of pandemic restrictions could complicate future business decisions and risk denting consumer activity. Luke Vargas hosts.",
+        "link": "https://www.wsj.com/podcasts/whats-news/risk-of-lockdowns-in-china-delays-return-to-business-as-usual/3FE3FCBE-C20D-479E-A56A-E6520D29AFCB?mod=Searchresults_pos18&page=2"
+    },
+    {
+        "category": "The Wall Street Journal Tech Talk",
+        "title": "Do Kwon Tries Again After $40 Billion Crypto Crash",
+        "byline": "",
+        "summary": "Algorithmic stablecoin TerraUSD was supposed to maintain its value at $1 with the help of its sister-crypto, Luna. But TerraUSD\u2019s price collapsed to pennies in May, while Luna plunged by more than 99%, wiping out around $40 billion in value. Their creator Do Kwon has been attempting a comeback by relaunching Luna. WSJ markets reporter Alexander Osipovich joins host Julie Chang to explain the collapse of Do Kwon\u2019s crypto empire and what his second try looks like.",
+        "link": "https://www.wsj.com/podcasts/tech-news-briefing/do-kwon-tries-again-after-40-billion-crypto-crash/E657E91A-15A7-4234-99DE-78F9DD5B3079?mod=Searchresults_pos19&page=2"
+    },
+    {
+        "category": "Finance",
+        "title": "Robinhood Shares Soar on Takeover Hopes",
+        "byline": "Vicky Ge Huang and Hannah Miao",
+        "summary": "Robinhood Markets shares surged Monday on reports that cryptocurrency exchange FTX is exploring a potential acquisition of the brokerage.",
+        "link": "https://www.wsj.com/articles/robinhood-shares-soar-on-takeover-hopes-11656362590?mod=Searchresults_pos20&page=2"
+    },
+    {
+        "category": "Paid Program",
+        "title": "Cake DeFi\u2019s CEO Is on a Mission to Demystify Decentralized Finance",
+        "byline": "Content from Cake DeFi",
+        "summary": "Discover why DeFi could be the next great disruption.  \r\n\r\n",
+        "link": "https://partners.wsj.com/cakedefi/crypto/cake-defis-ceo-is-on-a-mission-to-demystify-decentralized-finance/?utm_source=wsj-search&utm_medium=CustomContentWSJ&mod=SponsorSearchresults_pos1&page=2"
+    },
+    {
+        "category": "Finance",
+        "title": "Crypto Hedge Fund Three Arrows Defaulted on Loan, Says Broker",
+        "byline": "Caitlin Ostroff",
+        "summary": "Three Arrows has defaulted, failing to make loan payments tied to large bets in the digital-currency realm, crypto broker Voyager Digital said.",
+        "link": "https://www.wsj.com/articles/crypto-hedge-fund-three-arrows-defaulted-on-loan-says-broker-voyager-digital-11656336534?mod=Searchresults_pos1&page=3"
+    },
+    {
+        "category": "CMO Today",
+        "title": "Studios Battle for Players of \u2018Hypercasual\u2019 Videogames, the Latest Mobile Distraction",
+        "byline": "Katie Deighton",
+        "summary": "Mobile games that require little brainpower to play are becoming more sophisticated as their publishers try to cling on to fickle\u2014and monetizable\u2014players.",
+        "link": "https://www.wsj.com/articles/studios-battle-for-players-of-hypercasual-videogames-the-latest-mobile-distraction-11656324001?mod=Searchresults_pos2&page=3"
+    },
+    {
+        "category": "CMO Today",
+        "title": "Marketers at NFT.NYC Upbeat on Brand-Building in the Metaverse",
+        "byline": "Ann-Marie Alc\u00e1ntara",
+        "summary": "Companies\u2019 enthusiasm for the advertising potential of the virtual world was undimmed at NFT.NYC, a four-day event last week, in contrast to the recent downturn in cryptocurrencies and NFTs.",
+        "link": "https://www.wsj.com/articles/marketers-at-nft-nyc-upbeat-on-brand-building-in-the-metaverse-11656324000?mod=Searchresults_pos3&page=3"
+    },
+    {
+        "category": "Finance",
+        "title": "More Hedge Funds Bet Against Tether as Crypto Melts Down",
+        "byline": "Vicky Ge Huang",
+        "summary": "Short sellers have been ramping up their bets against tether, the world\u2019s largest stablecoin, amid a broad market selloff that has called into doubt the financial health of some crypto companies.",
+        "link": "https://www.wsj.com/articles/more-hedge-funds-are-betting-against-tether-as-crypto-melts-down-11656322200?mod=Searchresults_pos4&page=3"
+    },
+    {
+        "category": "The Wall Street Journal Tech Talk",
+        "title": "VR Tech to Combat Social Isolation Among Seniors",
+        "byline": "",
+        "summary": "To tackle social isolation among seniors, some caregivers have turned to virtual reality. One company developing that technology is Rendever. At The Wall Street Journal's recent Future of Everything Festival, personal tech columnist Nicole Nguyen spoke with Rendever\u2019s co-founder and CEO about where this tech stands today and how it can be leveraged to transform the day-to-day lives of residents in senior communities. Julie Chang hosts.",
+        "link": "https://www.wsj.com/podcasts/tech-news-briefing/vr-tech-to-combat-social-isolation-among-seniors/ABEBD6F8-EFBF-4314-BC49-617CF092D9CE?mod=Searchresults_pos5&page=3"
+    },
+    {
+        "category": "U.S. Markets",
+        "title": "Dow Jumps as Rate-Hike Expectations Cool",
+        "byline": "Anna Hirtenstein and Alexander Osipovich",
+        "summary": "U.S. stock indexes moved more than 2% higher, as investors shifted their views about central bank policy after weak economic data.",
+        "link": "https://www.wsj.com/articles/global-stocks-markets-dow-update-06-24-2022-11656055923?mod=Searchresults_pos6&page=3"
+    },
+    {
+        "category": "Risk & Compliance Journal",
+        "title": "Banks Face Risks From Geopolitics, Staff Turnover, OCC Says",
+        "byline": "Mengqi Sun",
+        "summary": "The Office of the Comptroller of the Currency said geopolitical events, inflation and higher interest rates are posing headwinds for banks.",
+        "link": "https://www.wsj.com/articles/banks-face-risks-from-geopolitics-staff-turnover-occ-says-11656099709?mod=Searchresults_pos7&page=3"
+    },
+    {
+        "category": "WSJ Pro",
+        "title": "Celsius Network Taps More Advisers to Prepare for Potential Bankruptcy",
+        "byline": "Alexander Gladstone and Andrew Scurria",
+        "summary": "The crypto lending platform has hired restructuring consultants from Alvarez & Marsal to advise on a possible bankruptcy filing as it contends with the recent collapse in digital currencies. ",
+        "link": "https://www.wsj.com/articles/celsius-network-taps-more-advisers-to-prepare-for-potential-bankruptcy-11656088078?mod=Searchresults_pos8&page=3"
+    },
+    {
+        "category": "Markets",
+        "title": "Hackers Steal $100 Million Of Crypto From Harmony Blockchain Bridge",
+        "byline": "Omar Abdel-Baqui",
+        "summary": "Tech company Harmony says it is working to retrieve funds and identify who is behind the theft on one of its blockchain bridges",
+        "link": "https://www.wsj.com/articles/100-million-in-cryptocurrency-stolen-by-hackers-11656080992?mod=Searchresults_pos9&page=3"
+    },
+    {
+        "category": "Markets",
+        "title": "Low Bitcoin Price Weighs on Crypto Mining Stocks",
+        "byline": "Paul Vigna",
+        "summary": "Worried about falling profits and high fixed costs, investors have been dumping  publicly traded bitcoin miners like Riot Blockchain and TeraWulf amid the cryptocurrency selloff.",
+        "link": "https://www.wsj.com/articles/low-bitcoin-price-weighs-on-crypto-mining-stocks-11656072602?mod=Searchresults_pos10&page=3"
+    },
+    {
+        "category": "Heard on the Street",
+        "title": "\u2018Buy the Dip\u2019 Faith Has a Last Bastion: Individual Investors",
+        "byline": "Jon Sindreu",
+        "summary": "They remain big net buyers of stocks as professional money managers sell, but the scale of losses such investors are racking up could eventually lead them to capitulate.",
+        "link": "https://www.wsj.com/articles/buy-the-dip-faith-has-a-last-bastion-individual-investors-11655981820?mod=Searchresults_pos11&page=3"
+    },
+    {
+        "category": "Whats News Business Finance",
+        "title": "What\u2019s News: Business & Finance",
+        "byline": "",
+        "summary": "What\u2019s News: Business & Finance",
+        "link": "https://www.wsj.com/articles/whats-news-business-finance-11655952931?mod=Searchresults_pos12&page=3"
+    },
+    {
+        "category": "U.S. Markets",
+        "title": "Dow, S&P 500 Inch Down After Powell Testifies to Congress",
+        "byline": "Karen Langley and Caitlin Ostroff",
+        "summary": "Major indexes end slightly lower, while investors sought haven assets, after the Fed chairman discussed efforts to tame inflation.",
+        "link": "https://www.wsj.com/articles/global-stocks-markets-dow-update-06-22-2022-11655883438?mod=Searchresults_pos13&page=3"
+    },
+    {
+        "category": "Finance",
+        "title": "Binance.US Eliminates Spot Trading Fees on Bitcoin",
+        "byline": "Vicky Ge Huang",
+        "summary": "The exchange\u2019s users can trade bitcoin for the U.S. dollar, tether, other stablecoins without spot trading fees.",
+        "link": "https://www.wsj.com/articles/binance-us-eliminates-spot-trading-fees-on-bitcoin-11655898360?mod=Searchresults_pos14&page=3"
+    },
+    {
+        "category": "WSJ Minute Briefing",
+        "title": "Stocks Edge Lower as Powell Acknowledges Economic Downturn Risk",
+        "byline": "",
+        "summary": "Also: Moderna shares rise 4.7% after saying its modified Covid-19 vaccine triggered immune responses against Omicron subvariants. Oil prices fall 2.5% to their lowest settlement level in a month. J.R. Whalen reports.",
+        "link": "https://www.wsj.com/podcasts/minute-briefing/stocks-edge-lower-as-powell-acknowledges-economic-downturn-risk/BB709C7A-7DFD-4475-9872-33841F2C6731?mod=Searchresults_pos15&page=3"
+    },
+    {
+        "category": "Commentary",
+        "title": "Opinion: Don\u2019t Believe the Obits for Bitcoin",
+        "byline": "Max Raskin",
+        "summary": "Cryptocurrencies have faced constant volatility. It doesn\u2019t matter for the ideologically committed.",
+        "link": "https://www.wsj.com/articles/dont-believe-the-obits-for-bitcoin-cryptocurrency-money-libertarian-unlicensed-ideology-banks-11655924784?mod=Searchresults_pos16&page=3"
+    },
+    {
+        "category": "Finance",
+        "title": "Crypto Broker Says Three Arrows Capital Hasn\u2019t Repaid $666 Million in Loans",
+        "byline": "Vicky Ge Huang",
+        "summary": "The broker says it could issue a notice of default against the crypto hedge fund.",
+        "link": "https://www.wsj.com/articles/crypto-broker-voyager-digital-says-three-arrows-capital-hasnt-repaid-666-million-in-loans-11655915660?mod=Searchresults_pos17&page=3"
+    },
+    {
+        "category": "Finance",
+        "title": "Do Kwon\u2019s Crypto Empire Fell in a $40 Billion Crash. He\u2019s Got a New Coin for You.",
+        "byline": "Alexander Osipovich in New York and Jiyoung Sohn in Seoul ",
+        "summary": "The South Korean entrepreneur\u2019s cryptocurrency empire collapsed last month. Now, despite angry investors and government investigations, he is attempting a comeback.",
+        "link": "https://www.wsj.com/articles/do-kwons-crypto-empire-fell-in-a-40-billion-crash-hes-got-a-new-coin-for-you-11655914487?mod=Searchresults_pos18&page=3"
+    },
+    {
+        "category": "Google News Update",
+        "title": "Crypto Volatility: Your Questions Answered",
+        "byline": "",
+        "summary": "Crypto has been on a wild ride lately, experiencing huge dips and volatility impacting investors and companies, and catching the eye of regulators. Wall Street Journal crypto reporter Paul Vigna joins WSJ Tech News Briefing host Zoe Thomas to answer your questions about how the market is supposed to work, how the government is responding and what the future could hold for the cryptocurrency space.",
+        "link": "https://www.wsj.com/podcasts/google-news-update/crypto-volatility-your-questions-answered/75CA2B86-89DC-463A-9400-8AD144794715?mod=Searchresults_pos19&page=3"
+    },
+    {
+        "category": "WSJ Pro",
+        "title": "Crypto Startup FalconX Raises $150 Million Despite Market Rout",
+        "byline": "Marc Vartabedian",
+        "summary": "Funding for the trading platform geared toward institutional investors highlights investor support despite cryptocurrency market\u2019s current financial tailspin.",
+        "link": "https://www.wsj.com/articles/crypto-startup-falconx-raises-150-million-despite-market-rout-11655892000?mod=Searchresults_pos20&page=3"
+    },
+    {
+        "category": "Paid Program",
+        "title": "A Perspective Spotlight With Stephen Tisdalle, State Street Global Advisors",
+        "byline": "Content from CMO Network",
+        "summary": "When faced with a challenge, who does Stephen Tisdalle, CMO of State Street Global Advisors, turn to for trusted advice?",
+        "link": "https://partners.wsj.com/cmo-network/member-voices/a-perspective-spotlight-with-stephen-tisdalle-ssga/?utm_source=wsj-search&utm_medium=CustomContentWSJ&mod=SponsorSearchresults_pos1&page=3"
+    }
+]
