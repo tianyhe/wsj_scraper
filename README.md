@@ -18,25 +18,28 @@ The scraped thumbnails will be stored as both a json and a csv file for further 
 
 **Example of json output file:**
 
-```
-{
-    "category": "Finance",
-    "title": "Coinbase Launches Derivatives Product in Crowded Market",
-    "byline": "Paul Vigna",
-    "summary": "Coinbase just introduced a derivatives product, its latest attempt to move into a new field and offset weakness in its core spot-trading business. It has a lot of competition.",
-    "link": "https://www.wsj.com/articles/coinbase-launches-derivatives-product-in-crowdedand-depressedmarket-11656763202?mod=Searchresults_pos1&page=1"
-},
+```json
+[
+    {
+        "category": "Finance",
+        "title": "Coinbase Launches Derivatives Product in Crowded Market",
+        "byline": "Paul Vigna",
+        "summary": "Coinbase just introduced a derivatives product, its latest attempt to move into a new field and offset weakness in its core spot-trading business. It has a lot of competition.",
+        "link": "https://www.wsj.com/articles/coinbase-launches-derivatives-product-in-crowdedand-depressedmarket-11656763202?mod=Searchresults_pos1&page=1"
+    }
+]
 ...
 ```
 
 **Example of csv output file:**
 
-```
+```csv
 category,title,byline,summary,link
 
 Finance,Coinbase Launches Derivatives Product in Crowded Market,Paul Vigna,"Coinbase just introduced a derivatives product, its latest attempt to move into a new field and offset weakness in its core spot-trading business. It has a lot of competition.",https://www.wsj.com/articles/coinbase-launches-derivatives-product-in-crowdedand-depressedmarket-11656763202?mod=Searchresults_pos1&page=1
 
-...
+Autos Industry,Tesla Vehicle Deliveries Tumble After China Factory Shutdown,Rebecca Elliott and Meghan Bobrowsky,"A string of record quarterly deliveries came to an end in the second quarter, when Tesla handed over 254,695 vehicles to customers. ",https://www.wsj.com/articles/tesla-vehicle-deliveries-tumble-after-china-factory-shutdown-11656779597?mod=Searchresults_pos2&page=1
+
 ```
 
 ---
