@@ -20,15 +20,14 @@ The scraped thumbnails will be stored as both a json and a csv file for further 
 
 ```json
 [
-    {
-        "category": "Finance",
-        "title": "Coinbase Launches Derivatives Product in Crowded Market",
-        "byline": "Paul Vigna",
-        "summary": "Coinbase just introduced a derivatives product, its latest attempt to move into a new field and offset weakness in its core spot-trading business. It has a lot of competition.",
-        "link": "https://www.wsj.com/articles/coinbase-launches-derivatives-product-in-crowdedand-depressedmarket-11656763202?mod=Searchresults_pos1&page=1"
-    }
+  {
+    "category": "Finance",
+    "title": "Coinbase Launches Derivatives Product in Crowded Market",
+    "byline": "Paul Vigna",
+    "summary": "Coinbase just introduced a derivatives product, its latest attempt to move into a new field and offset weakness in its core spot-trading business. It has a lot of competition.",
+    "link": "https://www.wsj.com/articles/coinbase-launches-derivatives-product-in-crowdedand-depressedmarket-11656763202?mod=Searchresults_pos1&page=1"
+  }
 ]
-...
 ```
 
 **Example of csv output file:**
